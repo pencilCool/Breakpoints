@@ -1,0 +1,2 @@
+echo "get list file from: ./Breakpoints.xcodeproj/xcuserdata/pencilcool.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist"
+cp ./Breakpoints.xcodeproj/xcuserdata/pencilcool.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist ./Breakpoints_v2.xcbkptlist 
